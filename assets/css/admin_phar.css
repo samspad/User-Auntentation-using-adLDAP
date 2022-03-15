@@ -1,0 +1,193 @@
+
+    table thead tr th:nth-child(1)
+    {
+      width: 80px !important;
+      text-align: center;
+    }
+    
+    .bg-primary
+    {
+      color: #fff;
+      background-color: #00b140 !important;
+    }
+  
+    div#myTable_filter  {
+      display: none;
+    }
+    
+   .btn-primary
+   {
+      color: #fff;
+      background-color: #00b140;
+      border-color: #00b140;
+  }
+  
+  .btn-success
+  {
+      color: #fff;
+      background-color: #00b140;
+      border-color: #00b140;
+  }
+  .tot_tr{
+      position: absolute;
+      top: 0;
+      width: 100%;
+  }
+  .cursor_pointer{
+    cursor: pointer;
+  }
+  
+  .swal-icon--info
+  {
+      border-color: #00b140;
+  }
+  
+  .swal-icon:first-child
+  {
+      margin-top: 8px;
+  }
+  
+  .swal-button:not([disabled]):hover
+  {
+      background-color: #00b140;
+  }
+  
+  .table > thead > tr > th
+  {
+      color: #fff;
+      border-bottom: 1px solid #e9eaec;
+  }
+  
+  .bg-info
+  {
+      background-color: #00b140!important;
+      color: #fff;
+  }
+  
+  div#pay_period_p span.badge {
+      float: right;
+  }
+  
+  select.form-control {
+  
+      
+      height: auto!important;
+  }
+  
+  .disable_td
+  {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: center;
+      background-color: #d4d1d1;
+  }
+  .enable_td{
+  
+    border: 1px solid black;
+    padding:5px;
+    text-align:left;
+    white-space: nowrap;
+  }
+  
+  .bg-primary
+    {
+      color: #fff;
+      background-color: #00b140 !important;
+    }
+  
+    div#myTable_filter  {
+      display: none;
+    }
+    
+   .btn-primary
+   {
+      color: #fff;
+      background-color: #00b140;
+      border-color: #00b140;
+  }
+  
+  .btn-success
+  {
+      color: #fff;
+      background-color: #00b140;
+      border-color: #00b140;
+  }
+  .tot_tr{
+      position: absolute;
+      top: 0;
+      width: 100%;
+  }
+  .cursor_pointer{
+    cursor: pointer;
+  }
+  
+  .swal-icon--info
+  {
+      border-color: #00b140;
+  }
+  
+  .swal-icon:first-child
+  {
+      margin-top: 8px;
+  }
+  
+  .swal-button:not([disabled]):hover
+  {
+      background-color: #00b140;
+  }
+  
+  .table > thead > tr > th
+  {
+      color: #fff;
+      border-bottom: 1px solid #e9eaec;
+  }
+  
+  .bg-info
+  {
+      background-color: #00b140!important;
+      color: #fff;
+  }
+  
+  div#pay_period_p span.badge
+  {
+      float: right;
+  }
+  
+  
+  
+  div#pay_period_p
+  {
+      height: 200px;
+      overflow-y: scroll;
+  }
+  
+  .form-control
+  {
+    color: #333;
+  }
+  
+  .btn-default 
+  {
+    color: #333;
+  }
+  
+  .badge-primary
+  {
+      background-color: #00b140 !important;
+  }
+  
+  
+  .dropdown-toggle:after
+  {
+      content: '';
+  }
+  
+  .alert-info
+  {
+      color: #1F2727;
+      background-color: #1F2727;
+      border-color: #1F2727;
+  }
+  
+  
+  
